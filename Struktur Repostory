@@ -1,0 +1,13 @@
+corevia-network/
+├── README.md
+├── docs/
+│   ├── vision.md
+│   ├── architecture.md
+│   ├── roadmap.md
+│   └── tokenomics.md
+├── specs/
+│   ├── consensus.md
+│   ├── data-availability.md
+│   └── oracle.md
+├── .gitignore
+└── LICENSE
