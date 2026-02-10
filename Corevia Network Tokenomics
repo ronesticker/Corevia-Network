@@ -1,0 +1,120 @@
+# Corevia Network Tokenomics
+
+## Token Overview
+
+- **Token Name:** Corevia
+- **Symbol:** COREV
+- **Token Type:** Utility & Governance Token
+- **Network:** Corevia Layer-1
+
+COREV adalah aset inti yang mengamankan jaringan, mengoordinasikan insentif ekonomi, dan mengatur tata kelola Corevia Network.
+
+---
+
+## Total Supply
+
+**Total Supply (Fixed):** 1,000,000,000 COREV  
+Tidak ada inflasi tak terbatas. Emisi bersifat terkontrol dan transparan.
+
+---
+
+## Token Utility
+
+COREV digunakan untuk:
+
+### 🔐 Network Security
+- Staking validator
+- Delegasi ke validator
+- Slashing untuk perilaku berbahaya
+
+### ⛽ Transaction Fees
+- Biaya transaksi Layer-1
+- Biaya data availability
+- Biaya oracle & AI execution
+
+### 🗳️ Governance
+- Voting proposal protokol
+- Parameter jaringan
+- Upgrade dan treasury allocation
+
+### 🎯 Ecosystem Incentives
+- Insentif app-chain & rollup
+- Grant developer
+- Insentif data & oracle provider
+
+---
+
+## Token Allocation
+
+| Category                     | Allocation | Amount (COREV) |
+|-----------------------------|------------|----------------|
+| Validator & Staking Rewards | 30%        | 300,000,000    |
+| Ecosystem & Developer Fund  | 25%        | 250,000,000    |
+| Foundation & Treasury       | 15%        | 150,000,000    |
+| Core Team                   | 15%        | 150,000,000    |
+| Early Supporters / Seed     | 10%        | 100,000,000    |
+| Public Distribution         | 5%         | 50,000,000     |
+| **Total**                   | **100%**   | **1,000,000,000** |
+
+---
+
+## Vesting Schedule
+
+### 👷 Core Team
+- Cliff: 12 months
+- Vesting: 36 months (linear)
+- Tujuan: long-term commitment
+
+### 🌱 Early Supporters / Seed
+- Cliff: 6 months
+- Vesting: 24 months
+
+### 🌍 Ecosystem Fund
+- Released gradually based on governance approval
+- Focus on sustainable ecosystem growth
+
+### 🧩 Validator Rewards
+- Distributed per block
+- Emission menurun secara bertahap
+
+---
+
+## Emission Model
+
+- Emisi awal tinggi untuk bootstrap keamanan
+- Emisi menurun setiap tahun
+- Target jangka panjang: biaya jaringan > emisi (fee-driven security)
+
+---
+
+## Fee Model
+
+- Semua fee dibayar dalam COREV
+- Fee dibagi ke:
+  - Validator & delegator
+  - Treasury DAO
+- Sebagian fee dapat dibakar (burn) melalui governance
+
+---
+
+## Economic Design Principles
+
+- **Security First:** staking kuat sebelum ekspansi
+- **Developer-Centric:** insentif besar untuk builder
+- **Sustainable:** bukan yield jangka pendek
+- **Governance-Driven:** komunitas menentukan arah
+
+---
+
+## Governance Flow
+
+1. Proposal diajukan (staking minimum)
+2. Diskusi komunitas
+3. Voting on-chain
+4. Eksekusi otomatis jika lolos
+
+---
+
+## Disclaimer
+
+Tokenomics ini dapat berubah melalui mekanisme governance Corevia Network seiring perkembangan teknologi dan ekosistem.
