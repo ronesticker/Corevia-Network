@@ -1,0 +1,41 @@
+┌─────────────────────┐
+                         │   Users / dApps     │
+                         │ (App-chains, AI,    │
+                         │  Rollups, DeFi)     │
+                         └─────────┬───────────┘
+                                   │
+                        Transaction Fees (COREV)
+                                   │
+                                   ▼
+┌────────────────────────────────────────────────────────┐
+│                    Corevia Network                      │
+│                                                        │
+│   ┌──────────────┐     ┌──────────────┐               │
+│   │  Validators  │◀────│  Stakers &   │               │
+│   │              │     │  Delegators  │               │
+│   └──────┬───────┘     └──────┬───────┘               │
+│          │                    │                       │
+│   Block Rewards          Staking Rewards               │
+│          │                    │                       │
+│          └──────────────┬─────┘                       │
+│                         │                             │
+│                         ▼                             │
+│               Network Security Layer                  │
+│                                                        │
+└───────────────┬───────────────────────────────┬───────┘
+                │                               │
+                │                               │
+        Treasury Allocation              Fee Burn (Optional)
+                │                         (Governance-based)
+                ▼
+┌──────────────────────────┐
+│   Corevia DAO Treasury   │
+│                          │
+│ • Developer Grants       │
+│ • Ecosystem Incentives   │
+│ • Oracle Providers       │
+│ • AI Infrastructure     │
+└──────────────┬───────────┘
+               │
+               ▼
+     Builders / App-Chains / Rollups
